@@ -8,14 +8,15 @@
         "bank": "N26"
     },
     "546923": {
-        "bank": "Lydia"
+        "bank": "LYDIA"
     },
     "497993": {
-        "bank": "Boursorama"
+        "bank": "BOURSORAMA"
     },
     "416538": {
         "type": "DEBIT",
         "level": "CLASSIC",
-        "bank": "Boursorama"
+        "country": "FRANCE",
+        "bank": "BOURSORAMA"
     }
 }
