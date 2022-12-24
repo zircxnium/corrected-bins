@@ -9,5 +9,13 @@
     },
     "546923": {
         "bank": "Lydia"
+    },
+    "497993": {
+        "bank": "Boursorama"
+    },
+    "416538": {
+        "type": "DEBIT",
+        "level": "CLASSIC",
+        "bank": "Boursorama"
     }
 }
