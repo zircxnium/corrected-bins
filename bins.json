@@ -25,11 +25,29 @@
         "country": "FR",
         "bank": "BANQUE POPULAIRE"
     },
+    "463344": {
+        "type": "DEBIT",
+        "level": "GOLD",
+        "country": "FR",
+        "bank": "CAISSE D'EPARGNE"
+    },
     "463338": {
         "type": "CREDIT",
         "level": "INFINITE",
         "country": "FR",
         "bank": "CAISSE D'EPARGNE"
+    },
+    "463342": {
+        "type": "CREDIT",
+        "level": "GOLD",
+        "country": "FR",
+        "bank": "CAISSE D'EPARGNE"
+    },
+    "463341": {
+        "type": "CREDIT",
+        "level": "GOLD",
+        "country": "FR",
+        "bank": "BANQUE POPULAIRE"
     },
     "497993": {
         "bank": "BOURSORAMA"
