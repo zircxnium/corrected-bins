@@ -10,6 +10,12 @@
     "546923": {
         "bank": "LYDIA"
     },
+    "463338": {
+        "bank": "CAISSE D'EPARGNE",
+        "level": "INFINITE",
+        "type": "CREDIT",
+        "country": "fr"
+    },
     "497993": {
         "bank": "BOURSORAMA"
     },
