@@ -19,6 +19,12 @@
         "country": "NL",
         "bank": "BUNQ"
     },
+    "463337": {
+        "type": "CREDIT",
+        "level": "INFINITE",
+        "country": "FR",
+        "bank": "BANQUE POPULAIRE"
+    },
     "463338": {
         "type": "CREDIT",
         "level": "INFINITE",
