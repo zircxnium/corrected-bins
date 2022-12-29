@@ -1,20 +1,29 @@
 {
     "535590": {
-        "bank": "N26",
+        "type": "DEBIT",
         "level": "WORLD",
-        "type": "DEBIT"
+        "country": "DE",
+        "bank": "N26"
     },
     "535584": {
+        "country": "DE",
         "bank": "N26"
     },
     "546923": {
+        "country": "FR",
         "bank": "LYDIA"
     },
+    "511580": {
+        "type": "DEBIT",
+        "level": "STANDARD",
+        "country": "NL",
+        "bank": "BUNQ"
+    },
     "463338": {
-        "bank": "CAISSE D'EPARGNE",
-        "level": "INFINITE",
         "type": "CREDIT",
-        "country": "FR"
+        "level": "INFINITE",
+        "country": "FR",
+        "bank": "CAISSE D'EPARGNE"
     },
     "497993": {
         "bank": "BOURSORAMA"
