@@ -49,6 +49,36 @@
         "country": "FR",
         "bank": "BANQUE POPULAIRE"
     },
+    "525861": {
+        "type": "CREDIT",
+        "level": "WORLD",
+        "country": "GB",
+        "bank": "REVOLUT"
+    },
+    "530212": {
+        "type": "CREDIT",
+        "level": "WORLD",
+        "country": "GB",
+        "bank": "REVOLUT"
+    },
+    "535200": {
+        "type": "DEBIT",
+        "level": "WORLD",
+        "country": "GB",
+        "bank": "REVOLUT"
+    },
+    "535450": {
+        "type": "DEBIT",
+        "level": "WORLD",
+        "country": "GB",
+        "bank": "REVOLUT"
+    },
+    "535769": {
+        "type": "DEBIT",
+        "level": "WORLD",
+        "country": "GB",
+        "bank": "REVOLUT"
+    },
     "535456": {
         "type": "DEBIT",
         "level": "WORLD",
