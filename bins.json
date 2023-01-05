@@ -49,6 +49,12 @@
         "country": "FR",
         "bank": "BANQUE POPULAIRE"
     },
+    "535456": {
+        "type": "DEBIT",
+        "level": "WORLD",
+        "country": "GB",
+        "bank": "REVOLUT"
+    },
     "513414": {
         "bank": "LCL"
     },
