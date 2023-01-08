@@ -9,8 +9,13 @@
         "country": "DE",
         "bank": "N26"
     },
-    "531364": {
+    "511768": {
         "type": "DEBIT",
+        "level": "BUSINESS",
+        "bank": "CREDIT MUTUEL ARKEA"
+    },
+    "531364": {
+        "type": "CREDIT",
         "level": "STANDARD",
         "country": "FR",
         "bank": "NICKEL"
@@ -20,7 +25,7 @@
         "bank": "LYDIA"
     },
     "511580": {
-        "type": "DEBIT",
+        "type": "CREDIT",
         "level": "STANDARD",
         "country": "NL",
         "bank": "BUNQ"
@@ -69,7 +74,7 @@
     },
     "535200": {
         "type": "DEBIT",
-        "level": "WORLD",
+        "level": "BUSINESS",
         "country": "GB",
         "bank": "REVOLUT"
     },
