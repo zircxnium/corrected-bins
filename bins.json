@@ -9,6 +9,10 @@
         "country": "DE",
         "bank": "N26"
     },
+    "531364": {
+        "type": "DEBIT",
+        "level": "STANDARD"
+    },
     "546923": {
         "country": "FR",
         "bank": "LYDIA"
