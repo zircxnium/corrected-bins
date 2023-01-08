@@ -11,7 +11,8 @@
     },
     "531364": {
         "type": "DEBIT",
-        "level": "STANDARD"
+        "level": "STANDARD",
+        "country": "FR"
     },
     "546923": {
         "country": "FR",
