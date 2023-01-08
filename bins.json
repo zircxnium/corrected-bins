@@ -12,7 +12,8 @@
     "531364": {
         "type": "DEBIT",
         "level": "STANDARD",
-        "country": "FR"
+        "country": "FR",
+        "bank": "NICKEL"
     },
     "546923": {
         "country": "FR",
