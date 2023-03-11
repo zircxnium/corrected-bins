@@ -1,111 +1,123 @@
 {
-    "535590": {
-        "type": "DEBIT",
-        "level": "WORLD",
-        "country": "DE",
-        "bank": "N26"
-    },
-    "535584": {
-        "country": "DE",
-        "bank": "N26"
-    },
-    "511768": {
-        "type": "DEBIT",
-        "level": "BUSINESS",
-        "bank": "CREDIT MUTUEL ARKEA"
-    },
-    "531364": {
-        "type": "CREDIT",
-        "level": "STANDARD",
-        "country": "FR",
-        "bank": "NICKEL"
-    },
-    "546923": {
-        "country": "FR",
-        "bank": "LYDIA"
-    },
-    "511580": {
-        "type": "CREDIT",
-        "level": "STANDARD",
-        "country": "NL",
-        "bank": "BUNQ"
-    },
-    "463337": {
-        "type": "CREDIT",
-        "level": "INFINITE",
-        "country": "FR",
-        "bank": "BANQUE POPULAIRE"
-    },
-    "463344": {
-        "type": "DEBIT",
-        "level": "GOLD",
-        "country": "FR",
-        "bank": "CAISSE D'EPARGNE"
-    },
-    "463338": {
-        "type": "CREDIT",
-        "level": "INFINITE",
-        "country": "FR",
-        "bank": "CAISSE D'EPARGNE"
-    },
-    "463342": {
-        "type": "CREDIT",
-        "level": "GOLD",
-        "country": "FR",
-        "bank": "CAISSE D'EPARGNE"
-    },
-    "463341": {
-        "type": "CREDIT",
-        "level": "GOLD",
-        "country": "FR",
-        "bank": "BANQUE POPULAIRE"
-    },
-    "525861": {
-        "type": "CREDIT",
-        "level": "WORLD",
-        "country": "GB",
-        "bank": "REVOLUT"
-    },
-    "530212": {
-        "type": "CREDIT",
-        "level": "WORLD",
-        "country": "GB",
-        "bank": "REVOLUT"
-    },
-    "535200": {
-        "type": "DEBIT",
-        "level": "BUSINESS",
-        "country": "GB",
-        "bank": "REVOLUT"
-    },
-    "535450": {
-        "type": "DEBIT",
-        "level": "WORLD",
-        "country": "GB",
-        "bank": "REVOLUT"
-    },
-    "535769": {
-        "type": "DEBIT",
-        "level": "WORLD",
-        "country": "GB",
-        "bank": "REVOLUT"
-    },
-    "535456": {
-        "type": "DEBIT",
-        "level": "WORLD",
-        "country": "GB",
-        "bank": "REVOLUT"
-    },
-    "513414": {
-        "bank": "LCL"
-    },
-    "497993": {
-        "bank": "BOURSORAMA"
-    },
-    "416538": {
-        "type": "DEBIT",
-        "level": "CLASSIC",
-        "country": "FR",
-        "bank": "BOURSORAMA"
-    }
+	"535590": {
+		"type": "DEBIT",
+		"level": "WORLD",
+		"country": "DE",
+		"bank": "N26"
+	},
+	"535584": {
+		"country": "DE",
+		"bank": "N26"
+	},
+	"511768": {
+		"type": "DEBIT",
+		"level": "BUSINESS",
+		"bank": "CREDIT MUTUEL ARKEA"
+	},
+	"531364": {
+		"type": "CREDIT",
+		"level": "STANDARD",
+		"country": "FR",
+		"bank": "NICKEL"
+	},
+	"529097": {
+		"type": "DEBIT",
+		"level": "STANDARD",
+		"country": "FR",
+		"bank": "NICKEL"
+	},
+	"546923": {
+		"country": "FR",
+		"bank": "LYDIA"
+	},
+	"511580": {
+		"type": "CREDIT",
+		"level": "STANDARD",
+		"country": "NL",
+		"bank": "BUNQ"
+	},
+	"463337": {
+		"type": "CREDIT",
+		"level": "INFINITE",
+		"country": "FR",
+		"bank": "BANQUE POPULAIRE"
+	},
+	"463344": {
+		"type": "DEBIT",
+		"level": "GOLD",
+		"country": "FR",
+		"bank": "CAISSE D'EPARGNE"
+	},
+	"463338": {
+		"type": "CREDIT",
+		"level": "INFINITE",
+		"country": "FR",
+		"bank": "CAISSE D'EPARGNE"
+	},
+	"463342": {
+		"type": "CREDIT",
+		"level": "GOLD",
+		"country": "FR",
+		"bank": "CAISSE D'EPARGNE"
+	},
+	"463341": {
+		"type": "CREDIT",
+		"level": "GOLD",
+		"country": "FR",
+		"bank": "BANQUE POPULAIRE"
+	},
+	"416598": {
+		"type": "DEBIT",
+		"level": "INFINITE",
+		"country": "GB",
+		"bank": "REVOLUT"
+	},
+	"525861": {
+		"type": "CREDIT",
+		"level": "WORLD",
+		"country": "GB",
+		"bank": "REVOLUT"
+	},
+	"530212": {
+		"type": "CREDIT",
+		"level": "WORLD",
+		"country": "GB",
+		"bank": "REVOLUT"
+	},
+	"535200": {
+		"type": "DEBIT",
+		"level": "BUSINESS",
+		"country": "GB",
+		"bank": "REVOLUT"
+	},
+	"535450": {
+		"type": "DEBIT",
+		"level": "WORLD",
+		"country": "GB",
+		"bank": "REVOLUT"
+	},
+	"535769": {
+		"type": "DEBIT",
+		"level": "WORLD",
+		"country": "GB",
+		"bank": "REVOLUT"
+	},
+	"535456": {
+		"type": "DEBIT",
+		"level": "WORLD",
+		"country": "GB",
+		"bank": "REVOLUT"
+	},
+	"513414": {
+		"bank": "LCL"
+	},
+	"497993": {
+		"bank": "BOURSORAMA"
+	},
+	"416538": {
+		"type": "DEBIT",
+		"level": "CLASSIC",
+		"country": "FR",
+		"bank": "BOURSORAMA"
+	}
 }
